@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "n5BObkuHpg2NUMNrrbpMyk6gBclp21gUfC4Fuft28U79Ojn9tIVfeZ/R5n7aiIAgFx/n8v0CTI+GwUEUG253oA==",
+  "success": true,
+  "projectFilePath": "C:\\git\\pythonnet\\tests\\domain_tests\\Python.DomainReloadTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anibal\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\anibal\\.nuget\\packages\\microsoft.net.compilers.toolset\\4.0.1\\microsoft.net.compilers.toolset.4.0.1.nupkg.sha512",
+    "C:\\Users\\anibal\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\anibal\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.0\\microsoft.netframework.referenceassemblies.net472.1.0.0.nupkg.sha512",
+    "C:\\Users\\anibal\\.nuget\\packages\\noncopyableanalyzer\\0.7.0\\noncopyableanalyzer.0.7.0.nupkg.sha512",
+    "C:\\Users\\anibal\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

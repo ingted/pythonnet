@@ -1,0 +1,11 @@
+C:\git\pythonnet\pythonnet\runtime\Python.Runtime.deps.json
+C:\git\pythonnet\pythonnet\runtime\Python.Runtime.dll
+C:\git\pythonnet\pythonnet\runtime\Python.Runtime.pdb
+C:\git\pythonnet\src\runtime\obj\Debug\Python.Runtime.csproj.AssemblyReference.cache
+C:\git\pythonnet\src\runtime\obj\Debug\Python.Runtime.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\pythonnet\src\runtime\obj\Debug\Python.Runtime.AssemblyInfoInputs.cache
+C:\git\pythonnet\src\runtime\obj\Debug\Python.Runtime.AssemblyInfo.cs
+C:\git\pythonnet\src\runtime\obj\Debug\Python.Runtime.csproj.CoreCompileInputs.cache
+C:\git\pythonnet\src\runtime\obj\Debug\Python.Runtime.sourcelink.json
+C:\git\pythonnet\src\runtime\obj\Debug\Python.Runtime.dll
+C:\git\pythonnet\src\runtime\obj\Debug\Python.Runtime.pdb
